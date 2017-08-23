@@ -70,7 +70,7 @@
 
 
 
-      <title>DÍA DEL DESAFÍO 2017</title>
+      <title>Seminario de Porras</title>
 
   </head>
 
@@ -106,9 +106,9 @@
 
                <li><a href="cerrar" id="a-registro">Inicio</a></li>
 
-              <li><a href="registro" id="a-registro">Registrarse</a></li>
+              <!--<li><a href="registro" id="a-registro">Registrarse</a></li>
 
-              <!--<li><a href="descarga" id="a-descarga">Descargar Carnet</a></li>-->
+              <li><a href="descarga" id="a-descarga">Descargar Carnet</a></li>-->
 
               <!--<li><a href="login" id="a-login" >Iniciar sesion</a></li>-->
 
@@ -154,7 +154,7 @@
 
                 <h1><font size="6" face="Comic Sans MS,arial,verdana">IDRD</font></h1>
 
-                <center<p class="lead"><h1><font size="6" face="Comic Sans MS,arial,verdana">DÍA DEL DESAFÍO 2017</font></h1></p>
+                <center<p class="lead"><h1><font size="6" face="Comic Sans MS,arial,verdana">Seminario de Porras</font></h1></p>
 
               </div>
 
@@ -162,7 +162,7 @@
 
                  <div align="right"> 
 
-                    <img src="public/Img/IDRD.JPG" width="50%" heigth="40%"/>
+                    <img src="public/Img/logo.png" width="30%" heigth="30%"/>
 
                  </div>                    
 
